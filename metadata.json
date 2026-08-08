@@ -1,0 +1,6 @@
+{
+  "name": "كيف حسبت",
+  "description": "حاسبة العمل الإضافي والحقوق المالية الدقيقة وفق نظام العمل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
