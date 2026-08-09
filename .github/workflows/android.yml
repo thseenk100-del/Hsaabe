@@ -26,6 +26,7 @@ jobs:
 
       - name: Generate debug keystore
         run: |
+          rm -f debug.keystore
           keytool -genkeypair \
             -alias androiddebugkey \
             -keyalg RSA \
